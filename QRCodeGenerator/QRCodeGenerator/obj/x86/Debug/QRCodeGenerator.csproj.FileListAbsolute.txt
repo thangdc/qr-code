@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\GitHub\qr-code-generator\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.exe
+C:\Users\Admin\Documents\GitHub\qr-code-generator\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.pdb
+C:\Users\Admin\Documents\GitHub\qr-code-generator\QRCodeGenerator\QRCodeGenerator\bin\Debug\zxing.dll
+C:\Users\Admin\Documents\GitHub\qr-code-generator\QRCodeGenerator\QRCodeGenerator\obj\x86\Debug\QRCodeGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\qr-code-generator\QRCodeGenerator\QRCodeGenerator\obj\x86\Debug\QRCodeGenerator.Main.resources
+C:\Users\Admin\Documents\GitHub\qr-code-generator\QRCodeGenerator\QRCodeGenerator\obj\x86\Debug\QRCodeGenerator.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\qr-code-generator\QRCodeGenerator\QRCodeGenerator\obj\x86\Debug\QRCodeGenerator.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\qr-code-generator\QRCodeGenerator\QRCodeGenerator\obj\x86\Debug\QRCodeGenerator.exe
+C:\Users\Admin\Documents\GitHub\qr-code-generator\QRCodeGenerator\QRCodeGenerator\obj\x86\Debug\QRCodeGenerator.pdb
